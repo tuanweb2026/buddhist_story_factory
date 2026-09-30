@@ -172,11 +172,15 @@ def get_audio_duration(audio_path: str) -> float:
 
 
 def render_scene_clip(image_path: str, audio_path: str, out_clip_path: str, width: int = 1920, height: int = 1080, fps: int = 30) -> bool:
-    """Renders 16:9 clip with slow gentle pan/zoom matching narration length."""
+    """Renders 16:9 clip with silky-smooth Ken Burns motion, eliminating pixel-snapping jitter via 4K supersampling."""
     dur = get_audio_duration(audio_path) + 0.45
     num_frames = int(dur * fps)
 
-    zoom_filter = f"zoompan=z='min(zoom+0.00022,1.05)':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={num_frames}:s={width}x{height}:fps={fps}"
+    # 4K super-sampled zoompan: computes subpixel pan on 3840x2160 then downsamples to 1080p smoothly
+    zoom_filter = (
+        f"scale=3840:2160:flags=lanczos,"
+        f"zoompan=z='min(zoom+0.00035,1.06)':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={num_frames}:s={width}x{height}:fps={fps}"
+    )
 
     cmd = [
         "ffmpeg", "-y",
@@ -184,7 +188,7 @@ def render_scene_clip(image_path: str, audio_path: str, out_clip_path: str, widt
         "-i", os.path.abspath(audio_path),
         "-vf", f"{zoom_filter},format=yuv420p",
         "-t", f"{dur:.2f}",
-        "-c:v", "libx264", "-preset", "fast",
+        "-c:v", "libx264", "-preset", "medium", "-crf", "20",
         "-c:a", "aac", "-b:a", "192k",
         "-shortest",
         out_clip_path
