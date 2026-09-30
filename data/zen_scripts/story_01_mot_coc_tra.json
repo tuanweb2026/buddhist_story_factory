@@ -1,0 +1,66 @@
+{
+  "title": "101 Câu Chuyện Thiền - Tập 1: Một Cốc Trà",
+  "description": "Giai thoại thiền kinh điển về Thiền sư Nan-In và vị giáo sư đại học: Hãy làm rỗng tâm trí để đón nhận sự giác ngộ.",
+  "scenes": [
+    {
+      "scene_id": "scene_01",
+      "text": "Vào thời Minh Trị tại Nhật Bản, có một vị giáo sư đại học danh tiếng tìm đến một thiền viện thanh tịnh trên núi cao để tham vấn về Thiền.",
+      "image_file": "data/zen_production/episodes/episode1/visuals/scene_01.jpg"
+    },
+    {
+      "scene_id": "scene_02",
+      "text": "Bước qua cổng thiền môn, vị giáo sư mang trong lòng niềm tự hào sâu sắc về kho tàng kiến thức và những triết lý uyên bác của mình.",
+      "image_file": "data/zen_production/episodes/episode1/visuals/scene_02.jpg"
+    },
+    {
+      "scene_id": "scene_03",
+      "text": "Đón tiếp vị học giả nơi trà thất u nhã, Thiền sư Nan-In từ tốn chuẩn bị trà cụ và đun nước với phong thái ung dung giải thoát.",
+      "image_file": "data/zen_production/episodes/episode1/visuals/scene_03.jpg"
+    },
+    {
+      "scene_id": "scene_04",
+      "text": "Làn khói trà thơm ngát nhẹ nhàng bốc lên giữa không gian tĩnh mịch, hòa cùng tiếng gió xào xạc bên rặng trúc vàng.",
+      "image_file": "data/zen_production/episodes/episode1/visuals/scene_04.jpg"
+    },
+    {
+      "scene_id": "scene_05",
+      "text": "Vừa an tọa, vị giáo sư đã lập tức thao thao bất tuyệt, đem hết sở học thế gian để trình bày những hiểu biết của mình về đạo lý.",
+      "image_file": "data/zen_production/episodes/episode1/visuals/scene_05.jpg"
+    },
+    {
+      "scene_id": "scene_06",
+      "text": "Thiền sư Nan-In chỉ mỉm cười lặng lẽ lắng nghe. Ngài nâng chiếc ấm gốm và bắt đầu rót trà mời vị khách quý.",
+      "image_file": "data/zen_production/episodes/episode1/visuals/scene_06.jpg"
+    },
+    {
+      "scene_id": "scene_07",
+      "text": "Dòng nước trà xanh biếc chảy đều đặn, mặt nước dần dâng cao chạm sát vành chén nhưng bàn tay Thiền sư vẫn không dừng lại.",
+      "image_file": "data/zen_production/episodes/episode1/visuals/scene_07.jpg"
+    },
+    {
+      "scene_id": "scene_08",
+      "text": "Nước trà nóng hổi tràn qua miệng chén, tuôn chảy lênh láng khắp mặt bàn gỗ và nhỏ giọt xuống sàn chiếu.",
+      "image_file": "data/zen_production/episodes/episode1/visuals/scene_08.jpg"
+    },
+    {
+      "scene_id": "scene_09",
+      "text": "Trông thấy cảnh tượng ấy, vị giáo sư vô cùng kinh ngạc và hoảng hốt kêu lên: Đã đầy tràn rồi, không thể thêm được nữa đâu!",
+      "image_file": "data/zen_production/episodes/episode1/visuals/scene_09.jpg"
+    },
+    {
+      "scene_id": "scene_10",
+      "text": "Thiền sư Nan-In lúc này mới điềm nhiên đặt ấm trà xuống, ánh mắt từ bi nhìn sâu vào tâm trí người đối diện.",
+      "image_file": "data/zen_production/episodes/episode1/visuals/scene_10.jpg"
+    },
+    {
+      "scene_id": "scene_11",
+      "text": "Ngài ôn tồn chỉ dạy: Cũng như chiếc chén này, trong lòng ông đang chứa đầy những tư kiến, thành kiến và sự kiêu hãnh của tri thức.",
+      "image_file": "data/zen_production/episodes/episode1/visuals/scene_11.jpg"
+    },
+    {
+      "scene_id": "scene_12",
+      "text": "Làm sao tôi có thể chỉ cho ông về Thiền, nếu ông không tự làm rỗng chiếc cốc của chính mình?",
+      "image_file": "data/zen_production/episodes/episode1/visuals/scene_12.jpg"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "title": "Chương 3: Chú Bé An",
+  "description": "Câu chuyện cảm động về thời thơ ấu hiếu học của Đức Trưởng lão Thích Thông Lạc tại quê ngoại Hóc Môn.",
+  "scenes": [
+    {
+      "scene_id": "scene_01",
+      "text": "Từ mối lương duyên tốt đẹp, chú bé An được sinh thành và nuôi dưỡng trên mảnh đất quê ngoại Hóc Môn thanh bình.",
+      "image_file": "data/book_illustrations/s3_01_countryside.jpg"
+    },
+    {
+      "scene_id": "scene_02",
+      "text": "Từ thuở nhỏ, An sống cùng bà ngoại và người anh trai, được ngoại ân cần chăm sóc từng miếng ăn giấc ngủ trong vòng tay yêu thương.",
+      "image_file": "data/book_illustrations/s3_02_grandma_warmth.jpg"
+    },
+    {
+      "scene_id": "scene_03",
+      "text": "Khi người anh tới tuổi đến trường, bé An vừa tròn năm tuổi cũng được ngoại cho đi theo cùng.",
+      "image_file": "data/book_illustrations/s3_03_going_to_school.jpg"
+    },
+    {
+      "scene_id": "scene_04",
+      "text": "Một thời gian sau, hai anh em cùng nhau rảo bước, con đường làng rợp bóng cây dần trở nên vô cùng thân thương.",
+      "image_file": "data/book_illustrations/s3_04_village_road.jpg"
+    },
+    {
+      "scene_id": "scene_05",
+      "text": "Ngôi trường làng ngày ấy đơn sơ, lớp học lợp bằng mái lá, vách tre mộc mạc nép mình bên rặng cây.",
+      "image_file": "data/book_illustrations/s3_05_village_school.jpg"
+    },
+    {
+      "scene_id": "scene_06",
+      "text": "Do tuổi còn nhỏ chưa vào lớp, bé An chỉ lặng lẽ đứng ngoài hiên, say sưa ngước nhìn qua khung cửa nhỏ.",
+      "image_file": "data/book_illustrations/s3_06_an_peeking.jpg"
+    },
+    {
+      "scene_id": "scene_07",
+      "text": "Chú bé say sưa chăm chú lắng nghe từng lời giảng giải trầm ấm của thầy giáo qua ô cửa sổ.",
+      "image_file": "data/book_illustrations/s3_07_teacher_reading.jpg"
+    },
+    {
+      "scene_id": "scene_08",
+      "text": "Lòng ham học trỗi dậy, mỗi khi về nhà, bé An lại tha thiết năn nỉ bà ngoại xin cho mình được chính thức đến trường.",
+      "image_file": "data/book_illustrations/s3_08_begging_grandma.jpg"
+    },
+    {
+      "scene_id": "scene_09",
+      "text": "Vừa thương cháu, lại thấy tấm lòng hiếu học tha thiết ấy, bà ngoại quyết định dắt An đến gặp thầy giáo để giãi bày sự tình.",
+      "image_file": "data/book_illustrations/s3_09_grandma_meets_teacher.jpg"
+    },
+    {
+      "scene_id": "scene_10",
+      "text": "Nghe lời bà cụ, thầy giáo nhận ra ngay gương mặt thơ ngây của chú bé ngày ngày vẫn đứng lấp ló nghe lỏm ngoài hiên.",
+      "image_file": "data/book_illustrations/s3_10_teacher_recognizes.jpg"
+    },
+    {
+      "scene_id": "scene_11",
+      "text": "Ánh mắt tròn xoe đầy vẻ cầu thị của bé khiến thầy rất quý, nhưng vì quy định tuổi tác của nhà trường, thầy đành ái ngại phân trần.",
+      "image_file": "data/book_illustrations/s3_11_under_age.jpg"
+    },
+    {
+      "scene_id": "scene_12",
+      "text": "Thấy chú bé buồn rười rượi chực khóc, bà ngoại càng xót xa, tiếp tục tha thiết khẩn cầu thầy mở rộng lòng thương.",
+      "image_file": "data/book_illustrations/s3_12_grandma_pleads.jpg"
+    },
+    {
+      "scene_id": "scene_13",
+      "text": "Trước tấm lòng của hai bà cháu, thầy giáo vô cùng xúc động và mỉm cười gật đầu nhận bé An vào học dự thính.",
+      "image_file": "data/book_illustrations/s3_13_teacher_accepts.jpg"
+    },
+    {
+      "scene_id": "scene_14",
+      "text": "Bước vào lớp nhưng không còn chỗ trống, thầy âu yếm bế bổng An lên, đặt ngồi trang trọng ngay trên chiếc ghế của chính mình.",
+      "image_file": "data/book_illustrations/s3_14_sitting_teacher_chair.jpg"
+    },
+    {
+      "scene_id": "scene_15",
+      "text": "Quá đỗi sung sướng và biết ơn, chú bé An liền ôm chầm lấy cổ thầy và hôn lên má thầy một cái thật ấm áp.",
+      "image_file": "data/book_illustrations/s3_15_kissing_teacher.jpg"
+    },
+    {
+      "scene_id": "scene_16",
+      "text": "Kể từ hôm đó, ngày ngày đến lớp, An luôn ngoan ngoãn lắng nghe, lễ phép nên được thầy cô và bạn bè hết mực yêu mến.",
+      "image_file": "data/book_illustrations/s3_16_studious_boy.jpg"
+    },
+    {
+      "scene_id": "scene_17",
+      "text": "Với tư chất thông minh và sự siêng năng vượt bậc, dù nhỏ tuổi nhất lớp, bé An vẫn xuất sắc vươn lên đạt danh hiệu hạng nhất trong học tập.",
+      "image_file": "data/book_illustrations/s3_17_top_student.jpg"
+    }
+  ]
+}

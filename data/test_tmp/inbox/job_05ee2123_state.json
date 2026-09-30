@@ -1,0 +1,10 @@
+{
+  "job_id": "job_05ee2123",
+  "state": "FAILED",
+  "timestamp": 1790507364.058114,
+  "details": {
+    "reasons": [
+      "No candidates returned after filtering."
+    ]
+  }
+}

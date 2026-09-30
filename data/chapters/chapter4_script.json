@@ -1,0 +1,86 @@
+{
+  "title": "Chương 4: Người Trộm Điều",
+  "description": "Bài học sâu sắc về đức ly tham và lòng thương yêu tha thứ của Đức Trưởng lão Thích Thông Lạc tại Chùa Am.",
+  "scenes": [
+    {
+      "scene_id": "scene_01",
+      "text": "Trước đây, Chùa Am đất rộng thênh thang, Thầy đã tự tay vun trồng hơn một trăm gốc điều sum sê tươi tốt.",
+      "image_file": "data/book_illustrations/s4_01_cashew_orchard.jpg"
+    },
+    {
+      "scene_id": "scene_02",
+      "text": "Đến mùa thu hoạch, khắp vườn trĩu nặng từng chùm quả mọng, tỏa hương thơm ngát và mang lại hạt điều béo bùi.",
+      "image_file": "data/book_illustrations/s4_02_cashew_fruit.jpg"
+    },
+    {
+      "scene_id": "scene_03",
+      "text": "Vào những đêm thanh vắng, có người hay lẻn vào bẻ trộm hạt điều, bỏ lại xác quả vương vãi khắp gốc cây.",
+      "image_file": "data/book_illustrations/s4_03_stolen_cashew.jpg"
+    },
+    {
+      "scene_id": "scene_04",
+      "text": "Buổi tối Thầy thường ngủ rất ít. Nửa đêm thức giấc, Thầy lặng lẽ ra ngồi dưới bóng cây hoặc đi dạo quanh vườn điều.",
+      "image_file": "data/book_illustrations/s4_04_monk_night_walk.jpg"
+    },
+    {
+      "scene_id": "scene_05",
+      "text": "Biết rõ có người vào bẻ trộm, nhưng Thầy chẳng một lời trách móc, cũng không bao giờ rình rập để bắt bớ ai.",
+      "image_file": "data/book_illustrations/s4_05_monk_calm.jpg"
+    },
+    {
+      "scene_id": "scene_06",
+      "text": "Đêm ấy, Chú Tiểu ngủ chung thất chợt giật mình tỉnh giấc, nhìn quanh không thấy bóng dáng Thầy đâu.",
+      "image_file": "data/book_illustrations/s4_06_novice_wakes.jpg"
+    },
+    {
+      "scene_id": "scene_07",
+      "text": "Chú bước vội ra sân, thấy Thầy đang đứng trầm ngâm, đôi mắt hướng nhìn về khoảng trời đêm bao la tĩnh mịch.",
+      "image_file": "data/book_illustrations/s4_07_novice_finds_monk.jpg"
+    },
+    {
+      "scene_id": "scene_08",
+      "text": "Thầy dịu dàng xoa đầu Chú Tiểu và bảo: Thầy già ít ngủ ra hóng mát, con còn nhỏ hãy mau vào ngủ cho lại sức.",
+      "image_file": "data/book_illustrations/s4_08_monk_comforts_novice.jpg"
+    },
+    {
+      "scene_id": "scene_09",
+      "text": "Chú Tiểu tha thiết xin được thức cùng Thầy dưới ánh trăng non đầu tháng, nghe gió thoảng hương điều bình yên.",
+      "image_file": "data/book_illustrations/s4_09_moonlit_night.jpg"
+    },
+    {
+      "scene_id": "scene_10",
+      "text": "Chợt nghe tiếng cành cây xào xạc trong vườn, Chú Tiểu liền tính nhặt đá ném sang để đuổi kẻ trộm chạy mất.",
+      "image_file": "data/book_illustrations/s4_10_thieves_rustling.jpg"
+    },
+    {
+      "scene_id": "scene_11",
+      "text": "Thầy vội ngăn lại: Đừng làm vậy con! Lỡ họ hoảng sợ té ngã thì nguy hiểm tính mạng, vì nghèo túng nên họ mới làm liều.",
+      "image_file": "data/book_illustrations/s4_11_monk_prevents_stone.jpg"
+    },
+    {
+      "scene_id": "scene_12",
+      "text": "Hai Thầy trò nhẹ bước tới gần, trông thấy mấy đứa trẻ xóm nghèo đang ngồi vắt vẻo trên ngọn cây điều.",
+      "image_file": "data/book_illustrations/s4_12_approaching_tree.jpg"
+    },
+    {
+      "scene_id": "scene_13",
+      "text": "Trông thấy bóng Thầy, lũ trẻ hồn xiêu phách lạc, luống cuống định nhảy vội xuống đất để bỏ chạy thoát thân.",
+      "image_file": "data/book_illustrations/s4_13_children_scared.jpg"
+    },
+    {
+      "scene_id": "scene_14",
+      "text": "Thầy liền cất tiếng hiền từ: Các con đừng sợ, Thầy không la mắng đâu, cứ từ từ trèo xuống kẻo ngã đau.",
+      "image_file": "data/book_illustrations/s4_14_monk_gentle_call.jpg"
+    },
+    {
+      "scene_id": "scene_15",
+      "text": "Thầy ân cần căn dặn: Đừng đi hái trộm nguy hiểm nữa, mai này muốn ăn cứ đến xin, Thầy sẽ hoan hỷ cho các con.",
+      "image_file": "data/book_illustrations/s4_15_teaching_generosity.jpg"
+    },
+    {
+      "scene_id": "scene_16",
+      "text": "Vườn điều xưa nay đã già cỗi theo tháng năm, nhưng đức tính ly tham và tình thương tha thứ của Thầy mãi soi sáng muôn đời.",
+      "image_file": "data/book_illustrations/s4_16_moral_lesson.jpg"
+    }
+  ]
+}

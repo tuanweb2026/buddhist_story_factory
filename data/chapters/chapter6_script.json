@@ -1,0 +1,86 @@
+{
+  "title": "Chương 6: Chuyện Ly Nước",
+  "description": "Bài học thiêng liêng về đức tiết kiệm hiếu sinh và trân trọng từng giọt nước quý giá của Đức Trưởng lão Thích Thông Lạc.",
+  "scenes": [
+    {
+      "scene_id": "scene_01",
+      "text": "Mỗi thời pháp thoại của Thầy giảng dạy cho tu sinh và Phật tử tại Chơn Như thường kéo dài suốt nhiều tiếng đồng hồ.",
+      "image_file": "data/book_illustrations/s6_01_dharma_hall.jpg"
+    },
+    {
+      "scene_id": "scene_02",
+      "text": "Trước giờ đăng giảng, các đệ tử luôn chu đáo rót sẵn một ly nước lọc trong trẻo đặt ngay ngắn trên bàn của Thầy.",
+      "image_file": "data/book_illustrations/s6_02_water_cup.jpg"
+    },
+    {
+      "scene_id": "scene_03",
+      "text": "Trong suốt buổi giảng say sưa, dù nhiều người nghe cảm thấy khát, nhưng kỳ lạ thay Thầy không hề uống ngụm nước nào.",
+      "image_file": "data/book_illustrations/s6_03_monk_teaching.jpg"
+    },
+    {
+      "scene_id": "scene_04",
+      "text": "Khi pháp hội kết thúc, mọi người cung kính xá chào Thầy lui ra, ly nước lọc trên bàn vẫn còn nguyên vẹn vẹn.",
+      "image_file": "data/book_illustrations/s6_04_session_ends.jpg"
+    },
+    {
+      "scene_id": "scene_05",
+      "text": "Nhiều lần nhìn thấy ly nước vẫn y nguyên, lòng các đệ tử không khỏi băn khoăn trăn trở về nguyên do sâu xa phía sau.",
+      "image_file": "data/book_illustrations/s6_05_curious_students.jpg"
+    },
+    {
+      "scene_id": "scene_06",
+      "text": "Một người học trò liền mạnh dạn tiến đến cung kính đảnh lễ và thưa hỏi: Bạch Thầy, sao Thầy không dùng ly nước?",
+      "image_file": "data/book_illustrations/s6_06_asking_monk.jpg"
+    },
+    {
+      "scene_id": "scene_07",
+      "text": "Thầy mỉm cười đôn hậu, ánh mắt từ hòa nhìn người đệ tử rồi giãi bày tâm niệm sâu sắc của người tu giải thoát.",
+      "image_file": "data/book_illustrations/s6_07_monk_smiles.jpg"
+    },
+    {
+      "scene_id": "scene_08",
+      "text": "Thầy bảo: Các con rót nhiều quá, Thầy uống rất ít nên không thể nào dùng hết được ly nước đầy như vậy.",
+      "image_file": "data/book_illustrations/s6_08_too_much_water.jpg"
+    },
+    {
+      "scene_id": "scene_09",
+      "text": "Nếu Thầy uống dở dang thì nước sẽ còn thừa, mà người tu nên thừa tự chánh pháp chứ không thừa tự đồ thừa của người khác.",
+      "image_file": "data/book_illustrations/s6_09_no_leftovers.jpg"
+    },
+    {
+      "scene_id": "scene_10",
+      "text": "Còn nếu đem đổ bỏ đi thì quá đỗi phí phạm giọt nước của đàn na tín thí, nên Thầy thà để nguyên vẹn không đụng tới.",
+      "image_file": "data/book_illustrations/s6_10_waste_not.jpg"
+    },
+    {
+      "scene_id": "scene_11",
+      "text": "Thầy căn dặn các con từ nay chỉ cần rót một chút vừa đủ dùng, Thầy sẽ uống hết sạch không để lãng phí.",
+      "image_file": "data/book_illustrations/s6_11_pouring_little.jpg"
+    },
+    {
+      "scene_id": "scene_12",
+      "text": "Hiểu được lời Thầy dạy, từ đó về sau các đệ tử chỉ rót lượng nước vừa đủ và Thầy luôn hoan hỷ uống cạn.",
+      "image_file": "data/book_illustrations/s6_12_finishing_water.jpg"
+    },
+    {
+      "scene_id": "scene_13",
+      "text": "Có lần ly còn chút nước thừa, Thầy kiên nhẫn uống hết và nói: Mất công các con chắt chiu rót nước, Thầy phải uống trọn vẹn.",
+      "image_file": "data/book_illustrations/s6_13_cherishing_effort.jpg"
+    },
+    {
+      "scene_id": "scene_14",
+      "text": "Giữ gìn từng giọt nước quý giá là bảo vệ sự sống của muôn loài.",
+      "image_file": "data/book_illustrations/s6_14_water_is_life.jpg"
+    },
+    {
+      "scene_id": "scene_15",
+      "text": "Tình thương hiếu sinh đích thực không chỉ dành riêng cho con người và muôn thú, mà bao trùm cả cây cỏ, nguồn nước và tầng khí quyển.",
+      "image_file": "data/book_illustrations/s6_15_reverence_for_all.jpg"
+    },
+    {
+      "scene_id": "scene_16",
+      "text": "Bài học về đức hiếu sinh và lòng biết ơn của Thầy sẽ sống mãi trong lòng mọi người.",
+      "image_file": "data/book_illustrations/s6_16_gratitude_legacy.jpg"
+    }
+  ]
+}

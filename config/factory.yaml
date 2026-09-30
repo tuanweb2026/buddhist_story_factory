@@ -1,0 +1,127 @@
+# Factory Configuration
+timezone: "Asia/Ho_Chi_Minh"
+mode: "autonomous"
+language: "vi"      # Content language lock: Vietnamese viewer-facing
+
+# Operating Principle:
+# "We don't publish because the calendar says we should publish.
+#  We publish because we found something worth telling people."
+# SKIP > LOW-QUALITY VIDEO | 0 GOOD STORIES > 4 BAD VIDEOS | 1 EXCELLENT VIDEO > 4 MEDIOCRE VIDEOS
+
+policy: "quality_first"
+
+capacity:
+  max_daily_shorts: 3
+  max_daily_long_form: 1
+  no_filler_rule: true
+
+targets:
+  daily_shorts: 3        # Maximum daily capacity, NOT mandatory quota
+  daily_long_form: 1     # Maximum daily capacity, NOT mandatory quota
+  min_confidence_score: 0.75
+
+discovery:
+  sources:
+    - "github_search_recent"
+    - "github_trending"
+  trending_languages:
+    - "python"
+    - "typescript"
+    - "rust"
+    - "go"
+    - "all"
+  trending_since: "daily"
+  stale_days_threshold: 45
+  min_stars: 20
+  min_recent_commits: 3
+  duplicate_window_days: 90
+
+scoring:
+  weights:
+    momentum: 0.20
+    novelty: 0.25
+    visual_potential: 0.20
+    curiosity: 0.15
+    explanation_simplicity: 0.20
+  min_story_threshold: 75.0        # Strict editorial bar: below 75 is automatically SKIPPED
+  min_longform_threshold: 85.0     # Only high-depth topics with architecture/benchmarks qualify for Long-form
+  star_momentum_baseline: 15
+
+formats:
+  shorts:
+    aspect_ratio: "9:16"
+    width: 1080
+    height: 1920
+    fps: 30
+    min_duration_sec: 25
+    max_duration_sec: 60
+    target_duration_sec: 45
+  long_form:
+    aspect_ratio: "16:9"
+    width: 1920
+    height: 1080
+    fps: 30
+    min_duration_sec: 180
+    max_duration_sec: 600
+
+voice:
+  provider: "microsoft_neural_edge_tts"
+  language: "vi"
+  primary_voice: "vi-VN-HoaiMyNeural"
+  secondary_voice: "vi-VN-NamMinhNeural"
+  pacing_wpm: 165
+  target_lufs: -16.0
+  true_peak_max_db: -1.5
+
+audio_standards:
+  sample_rate: 44100
+  channels: 2
+  codec: "aac"
+  bitrate: "192k"
+  max_clipping_fraction: 0.001
+
+render:
+  video_codec: "libx264"
+  pix_fmt: "yuv420p"
+  preset: "fast"
+  crf: 22
+
+visuals:
+  use_ai_visuals: true
+  provider: "pollinations"
+
+
+publishing:
+  enabled: false
+  dry_run: true
+  provider: "youtube"
+  privacy_status: "private"
+  target_channel: "@lido AI LAB"
+  channel_id: "@lido_ai_lab"
+  default_tags:
+    - "GitHub"
+    - "LapTrinh"
+    - "CongNghe"
+    - "OpenSource"
+    - "AI"
+    - "LidoAILab"
+
+retry:
+  max_attempts: 3
+  backoff_seconds: 2
+  backoff_factor: 2.0
+
+qa:
+  fail_closed: true
+  strict_evidence_check: true
+  max_allowed_repair_attempts: 3
+  mandatory_gates:
+    - "discovery"
+    - "research"
+    - "fact"
+    - "script"
+    - "visual"
+    - "audio"
+    - "render"
+    - "final_red_team"
+    - "publishing"

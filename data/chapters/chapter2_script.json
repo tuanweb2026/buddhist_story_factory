@@ -1,0 +1,91 @@
+{
+  "title": "Chương 2: Thầy Cứu Chuột",
+  "description": "Câu chuyện cảm động về Đức Trưởng lão Thích Thông Lạc đưa chân chịu chó cắn để cứu chú chuột nhỏ.",
+  "scenes": [
+    {
+      "scene_id": "scene_01",
+      "text": "Có một chú chuột nhỏ từ đâu hớt hải chạy đến bên đường, chẳng may chạm trán một con chó nhà to lớn và hung dữ.",
+      "image_file": "data/book_illustrations/s2_01_rat_running.jpg"
+    },
+    {
+      "scene_id": "scene_02",
+      "text": "Trông thấy bóng chuột, con chó lập tức gầm gừ, chực lao bổ tới để ngoạm lấy con mồi.",
+      "image_file": "data/book_illustrations/s2_02_dog_pounce.jpg"
+    },
+    {
+      "scene_id": "scene_03",
+      "text": "May mắn thay, đúng vào giây phút nghìn cân treo sợi tóc ấy, Thầy đang thong dong tản bộ đi tới.",
+      "image_file": "data/book_illustrations/s2_03_monk_arrive.jpg"
+    },
+    {
+      "scene_id": "scene_04",
+      "text": "Thầy nhìn thấy chú chuột nhỏ sắp sửa lọt vào giữa hai hàm răng nanh sắc nhọn của con chó dữ.",
+      "image_file": "data/book_illustrations/s2_04_dog_jaw_rat.jpg"
+    },
+    {
+      "scene_id": "scene_05",
+      "text": "Trong khoảnh khắc sinh tử quá nguy cấp, không kịp suy tính thiệt hơn, Thầy liền vội đưa chân mình ra cản lại.",
+      "image_file": "data/book_illustrations/s2_05_monk_blocks_dog.jpg"
+    },
+    {
+      "scene_id": "scene_06",
+      "text": "Con chó vì bị hụt mất miếng mồi ngon nên tức tối, ngoạm phập hàm răng cắn thật mạnh vào chân của Thầy.",
+      "image_file": "data/book_illustrations/s2_06_dog_bites_foot.jpg"
+    },
+    {
+      "scene_id": "scene_07",
+      "text": "Nhờ sự che chắn xả thân của Thầy, chú chuột may mắn thoát nạn, tức tốc cắm đầu chạy mất hút vào bụi rậm.",
+      "image_file": "data/book_illustrations/s2_07_rat_escapes.jpg"
+    },
+    {
+      "scene_id": "scene_08",
+      "text": "Chuột đã được cứu sống an toàn, nhưng bàn chân Thầy thì rách sâu, máu chảy đầm đìa.",
+      "image_file": "data/book_illustrations/s2_08_foot_wound.jpg"
+    },
+    {
+      "scene_id": "scene_09",
+      "text": "Dù vết cắn buốt nhói vô cùng, Thầy vẫn giữ nét mặt điềm nhiên, bước vào giảng dạy lớp Chánh Kiến cho các tu sinh như thường nhật.",
+      "image_file": "data/book_illustrations/s2_09_teaching_class.jpg"
+    },
+    {
+      "scene_id": "scene_10",
+      "text": "Hôm sau, nọc độc phát tác làm bàn chân sưng đỏ mọng, không thể xỏ dép, Thầy đành lặng lẽ đi chân không.",
+      "image_file": "data/book_illustrations/s2_10_barefoot_monk.jpg"
+    },
+    {
+      "scene_id": "scene_11",
+      "text": "Thấy vậy, Cô Út tha thiết khuyên Thầy đi tiêm ngừa, nhưng Thầy mỉm cười từ chối và dùng định lực thiền định của Phật pháp để tự đẩy lui bệnh.",
+      "image_file": "data/book_illustrations/s2_11_dharma_healing.jpg"
+    },
+    {
+      "scene_id": "scene_12",
+      "text": "Vết thương ở chân vừa bớt sưng thì nọc độc lại chạy xông lên mắt, khiến đôi mắt Thầy ngày một mờ dần.",
+      "image_file": "data/book_illustrations/s2_12_vision_blur.jpg"
+    },
+    {
+      "scene_id": "scene_13",
+      "text": "Cứ mỗi buổi chiều chạng vạng tối là mắt không còn thấy rõ, Thầy phải dùng tay lần theo bờ rào để dò từng bước đi.",
+      "image_file": "data/book_illustrations/s2_13_monk_feeling_path.jpg"
+    },
+    {
+      "scene_id": "scene_14",
+      "text": "Nhờ kiên trì an trú chánh niệm và định lực đẩy lui bệnh tật, vết thương lành lặn, nọc độc tan biến, sức khỏe Thầy hồi phục hoàn toàn.",
+      "image_file": "data/book_illustrations/s2_14_monk_recovered.jpg"
+    },
+    {
+      "scene_id": "scene_15",
+      "text": "Vì lòng yêu thương rộng lớn, khi đứng trước nỗi đau đớn hoạn nạn của muôn loài, bậc từ bi quyết không thể làm ngơ.",
+      "image_file": "data/book_illustrations/s2_15_compassion_walk.jpg"
+    },
+    {
+      "scene_id": "scene_16",
+      "text": "Hãy thương yêu muôn loài như người mẹ hiền sẵn sàng hy sinh thân mình, che chở để bảo bọc đứa con thơ được sống an lành.",
+      "image_file": "data/book_illustrations/s2_16_motherly_love.jpg"
+    },
+    {
+      "scene_id": "scene_17",
+      "text": "Đó chính là tấm lòng từ bi vô bờ bến của bậc thánh hiền, thầm lặng xả thân để thắp sáng tình thương cho cuộc đời.",
+      "image_file": "data/book_illustrations/s2_17_noble_sacrifice.jpg"
+    }
+  ]
+}

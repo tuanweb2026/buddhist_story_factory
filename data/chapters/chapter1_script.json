@@ -1,0 +1,108 @@
+{
+  "title": "Chương 1: Thầy Cứu Nhái",
+  "description": "Câu chuyện cảm động về Đức Trưởng lão Thích Thông Lạc cứu chú nhái nhỏ khỏi miệng rắn và mang cơm an ủi con rắn đói, thể hiện lòng từ bi bình đẳng muôn loài.",
+  "scenes": [
+    {
+      "scene_id": "scene_01",
+      "text": "Trong khuôn viên nơi Thầy làm việc tại tu viện Chơn Như, có một cái hầm đất sâu, quanh năm cỏ dại và dây leo mọc um tùm, rậm rạp.",
+      "prompt": "An overgrown serene earthen hollow corner in the tranquil garden of an ancient Vietnamese Buddhist monastery, wild tall green grass, morning mist, dewdrops on leaves, traditional wooden fence in distance, gentle sunlight, sacred peaceful zen nature painting",
+      "image_file": "data/book_illustrations/s1_01_burrow_wide.jpg"
+    },
+    {
+      "scene_id": "scene_02",
+      "text": "Cái hầm này vốn là nơi trú ngụ của biết bao loài sinh linh bé nhỏ, từ đàn côn trùng, cóc nhái, chàng hiu cho đến rắn rết.",
+      "prompt": "Macro masterwork Buddhist illustration of a lush mossy monastery garden burrow, small green frogs resting on wet stones, harmless insects fluttering, peaceful wild nature ecosystem, soft morning radiance, serene and harmonious",
+      "image_file": "data/book_illustrations/s1_02_burrow_close.jpg"
+    },
+    {
+      "scene_id": "scene_03",
+      "text": "Nơi đây diễn ra quy luật sinh tồn tự nhiên, loài này là thức ăn của loài khác. Nhái bắt côn trùng, nhưng bản thân nhái lại là miếng mồi ngon cho rắn săn mồi.",
+      "prompt": "A slender wild garden snake slithering gracefully through emerald ferns and dewy moss towards a small frog sitting by a lotus leaf, natural predator prey wildlife moment, dramatic yet sacred Buddhist lighting, ancient temple garden",
+      "image_file": "data/book_illustrations/s1_03_snake_wide.jpg"
+    },
+    {
+      "scene_id": "scene_04",
+      "text": "Hằng ngày, Thầy dành trọn thời gian để chăm lo Phật sự trong tu viện, chấm bài cho các tu sinh lớp Chánh Kiến và cặm cụi viết từng trang sách đạo đức.",
+      "prompt": "Inside a tranquil wooden monastery study room, an elderly Vietnamese Buddhist monk in saffron robes sitting at an antique desk, writing with a bamboo ink brush, stacks of papers and Dharma books, soft golden morning light through wooden lattice windows",
+      "image_file": "data/book_illustrations/s1_04_study_wide.jpg"
+    },
+    {
+      "scene_id": "scene_05",
+      "text": "Bỗng nhiên, giữa không gian thanh vắng, Thầy nghe thấy tiếng kêu cứu thất thanh và hoảng loạn của một chú nhái nhỏ vọng vào từ phía ngoài vườn.",
+      "prompt": "A compassionate Buddhist monk at his desk abruptly raising his head and looking towards an open wooden window with gentle concern, hearing cries of distress outside, morning breeze fluttering curtains, sacred atmosphere",
+      "image_file": "data/book_illustrations/s1_05_monk_listen.jpg"
+    },
+    {
+      "scene_id": "scene_06",
+      "text": "Linh cảm từ bi mách bảo Thầy biết ngay chú nhái đang bị rắn cắn và chuẩn bị trở thành bữa mồi săn.",
+      "prompt": "A small green frog struggling desperately in tall wild garden grass, trapped by a slender snake among fallen autumn leaves, dramatic compassionate focal point, dewdrops scattering, vibrant botanical detail",
+      "image_file": "data/book_illustrations/s1_06_snake_stalking.jpg"
+    },
+    {
+      "scene_id": "scene_07",
+      "text": "Thương xót tột cùng trước tiếng kêu cứu tuyệt vọng ấy, Thầy liền vội vã buông bút, bước nhanh ra bờ hầm.",
+      "prompt": "A benevolent Buddhist monk in flowing saffron robes walking swiftly down wooden veranda steps into the lush misty garden, compassionate gaze, flowing robe, peaceful morning sunlight filtering through ancient banyan tree branches",
+      "image_file": "data/book_illustrations/s1_07_monk_walk_wide.jpg"
+    },
+    {
+      "scene_id": "scene_08",
+      "text": "Thầy nghĩ: cứu nhái thì rắn sẽ bị đói, nhưng nếu để rắn nuốt chửng nhái thì rắn lại gieo thêm tội sát sinh.",
+      "prompt": "Close-up of the compassionate monk standing quietly by the grassy slope, gazing down with profound empathy and wisdom, gentle warm golden halo, contemplating the suffering and karma of both creatures",
+      "image_file": "data/book_illustrations/s1_08_monk_contemplate.jpg"
+    },
+    {
+      "scene_id": "scene_09",
+      "text": "Bởi loài vật nào cũng ham sống sợ chết, đâu có sinh linh nào muốn chịu nỗi đau đớn bị ăn thịt bao giờ.",
+      "prompt": "The small trembling frog looking up with innocent pleading eyes, resting amidst dewy clover and moss, glowing gentle light illuminating its fragile life, sacred sanctity of living beings",
+      "image_file": "data/book_illustrations/s1_09_frog_close.jpg"
+    },
+    {
+      "scene_id": "scene_10",
+      "text": "Thầy khẽ cúi xuống, dịu dàng xua đuổi con rắn để giải thoát cho chú nhái nhỏ yếu đuối thoát khỏi miệng tử thần.",
+      "prompt": "A kind Buddhist monk in saffron robes gently bending down with open empty hands over the tall green grass, parting the blades without violence, allowing the little frog to leap to safety while the startled snake retreats safely",
+      "image_file": "data/book_illustrations/s1_10_monk_rescue.jpg"
+    },
+    {
+      "scene_id": "scene_11",
+      "text": "Sau khi chú nhái đã nhảy đi an toàn, Thầy liền quay vào bếp, cẩn thận bới một nắm cơm trắng mang ra đặt ngay tại nơi con rắn vừa lẩn trốn.",
+      "prompt": "The gentle monk kneeling respectfully by the lush garden bushes, reverently placing a small rustic clay bowl filled with pure white cooked rice onto the green moss, morning sunbeam illuminating the food offering",
+      "image_file": "data/book_illustrations/s1_11_monk_placing_rice.jpg"
+    },
+    {
+      "scene_id": "scene_12",
+      "text": "Thầy ôn tồn cất lời: Rắn ơi! Thầy đuổi làm con hoảng hồn, con hãy lại đây mà ăn cơm nhé.",
+      "prompt": "The elderly Buddhist monk speaking softly with a warm loving smile, gesturing with an open palm toward the bushes, a slender peaceful garden snake peeking out curiously from behind flowering ginger leaves, touching harmony",
+      "image_file": "data/book_illustrations/s1_12_monk_calling_snake.jpg"
+    },
+    {
+      "scene_id": "scene_13",
+      "text": "Vì con giết chú nhái nên Thầy phải bênh vực, cứu mạng nó, chứ để nó chết thì tội nghiệp lắm. Vạn vật trên đời đều bình đẳng như nhau.",
+      "prompt": "Two peaceful creatures, a frog resting safely on a wet mossy stone and a slender snake nearby drinking morning dew, bathed in soft divine golden sunlight, timeless Buddhist equality of all life",
+      "image_file": "data/book_illustrations/s1_13_frog_safe.jpg"
+    },
+    {
+      "scene_id": "scene_14",
+      "text": "Thầy giúp con không gieo nghiệp ác sát sinh, nhưng cũng xót thương cơn đói của con nên mang phần cơm này đến cho con ăn lót dạ.",
+      "prompt": "Close-up of the handcrafted clay bowl with warm white rice nestled among green ferns, serene monk hand withdrawing gracefully, gentle forest creatures watching in tranquility, warm golden atmosphere",
+      "image_file": "data/book_illustrations/s1_14_monk_food_offering.jpg"
+    },
+    {
+      "scene_id": "scene_15",
+      "text": "Tuy không biết loài rắn có biết ăn cơm hay không, nhưng tấm lòng từ bi của Thầy không nỡ để bất kỳ một con vật nào phải chịu thiệt thòi hay đói khổ.",
+      "prompt": "The Buddhist monk standing at peace by the garden path, hands folded serenely inside robe sleeves, looking back at the garden with pure unconditional love and tranquility, morning mist dissipating",
+      "image_file": "data/book_illustrations/s1_15_monk_peaceful_heart.jpg"
+    },
+    {
+      "scene_id": "scene_16",
+      "text": "Mỗi khi chen vào quy luật nhân quả để cứu giúp một sinh linh, ta phải thật khéo léo để thực hiện lòng thương yêu trọn vẹn, không làm tổn thương bên nào.",
+      "prompt": "Panoramic masterwork view of an ancient Buddhist monastery courtyard at dusk, glowing stone lanterns, calm lotus pond reflecting the evening sky, silhouette of the meditating monk, supreme balance and ethical wisdom",
+      "image_file": "data/book_illustrations/s1_16_monk_meditation.jpg"
+    },
+    {
+      "scene_id": "scene_17",
+      "text": "Đó chính là bài học cao quý về Đạo đức Nhân bản Nhân quả, nơi lòng Từ Bi và Bình Đẳng luôn song hành cùng Trí Tuệ rạng ngời.",
+      "prompt": "Magnificent sacred Buddhist fine art, an illuminated ancient pagoda under a starry twilight sky, golden aura radiating peace and moral harmony to all living beings in the cosmos, majestic masterwork oil painting",
+      "image_file": "data/book_illustrations/s1_17_monk_walking_dharma.jpg"
+    }
+  ]
+}

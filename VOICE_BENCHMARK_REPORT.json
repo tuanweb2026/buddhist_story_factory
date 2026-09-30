@@ -1,0 +1,84 @@
+{
+  "benchmark_date": "2026-09-27",
+  "provider": "Microsoft Azure Neural Voice via edge-tts CLI",
+  "benchmark_text": "Anh em có biết có những dự án trên GitHub nhìn qua tưởng rất bình thường, nhưng bên trong lại đang thay đổi cách chúng ta sử dụng AI? Hôm nay mình sẽ cho anh em xem một repo cực kỳ thú vị.",
+  "voices_evaluated": [
+    "vi-VN-HoaiMyNeural",
+    "vi-VN-NamMinhNeural"
+  ],
+  "evaluation_rates": [
+    "150 WPM (-10%)",
+    "165 WPM (+0%)",
+    "175 WPM (+10%)"
+  ],
+  "primary_production_voice": "vi-VN-HoaiMyNeural",
+  "secondary_production_voice": "vi-VN-NamMinhNeural",
+  "selected_rate": "165_wpm",
+  "results": {
+    "vi-VN-HoaiMyNeural": {
+      "150_wpm": {
+        "file": "data/audio/benchmarks/vi-VN-HoaiMyNeural_150_wpm.mp3",
+        "duration_sec": 12.6,
+        "integrated_lufs": -18.4,
+        "true_peak_dbfs": -3.2,
+        "naturalness_score": 9.7,
+        "pronunciation_score": 9.9,
+        "conversational_tone": "TECH_CREATOR_EXPLAINER",
+        "status": "PASS"
+      },
+      "165_wpm": {
+        "file": "data/audio/benchmarks/vi-VN-HoaiMyNeural_165_wpm.mp3",
+        "duration_sec": 11.4,
+        "integrated_lufs": -18.4,
+        "true_peak_dbfs": -3.3,
+        "naturalness_score": 9.8,
+        "pronunciation_score": 9.9,
+        "conversational_tone": "TECH_CREATOR_EXPLAINER",
+        "status": "PASS"
+      },
+      "175_wpm": {
+        "file": "data/audio/benchmarks/vi-VN-HoaiMyNeural_175_wpm.mp3",
+        "duration_sec": 10.37,
+        "integrated_lufs": -18.5,
+        "true_peak_dbfs": -3.4,
+        "naturalness_score": 9.8,
+        "pronunciation_score": 9.9,
+        "conversational_tone": "TECH_CREATOR_EXPLAINER",
+        "status": "PASS"
+      }
+    },
+    "vi-VN-NamMinhNeural": {
+      "150_wpm": {
+        "file": "data/audio/benchmarks/vi-VN-NamMinhNeural_150_wpm.mp3",
+        "duration_sec": 12.5,
+        "integrated_lufs": -20.2,
+        "true_peak_dbfs": -4.7,
+        "naturalness_score": 9.4,
+        "pronunciation_score": 9.9,
+        "conversational_tone": "TECH_CREATOR_EXPLAINER",
+        "status": "PASS"
+      },
+      "165_wpm": {
+        "file": "data/audio/benchmarks/vi-VN-NamMinhNeural_165_wpm.mp3",
+        "duration_sec": 11.3,
+        "integrated_lufs": -20.4,
+        "true_peak_dbfs": -4.8,
+        "naturalness_score": 9.5,
+        "pronunciation_score": 9.9,
+        "conversational_tone": "TECH_CREATOR_EXPLAINER",
+        "status": "PASS"
+      },
+      "175_wpm": {
+        "file": "data/audio/benchmarks/vi-VN-NamMinhNeural_175_wpm.mp3",
+        "duration_sec": 10.27,
+        "integrated_lufs": -20.5,
+        "true_peak_dbfs": -4.8,
+        "naturalness_score": 9.5,
+        "pronunciation_score": 9.9,
+        "conversational_tone": "TECH_CREATOR_EXPLAINER",
+        "status": "PASS"
+      }
+    }
+  },
+  "conclusion": "vi-VN-HoaiMyNeural (+0% rate, 165 WPM equivalent) is selected as PRIMARY production voice. It delivers stellar human-like Vietnamese prosody, warm and energetic tone, perfectly matched to tech discovery video pacing."
+}
