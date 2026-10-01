@@ -1,0 +1,66 @@
+{
+  "title": "101 Câu Chuyện Thiền - Tập 2: Thật Vậy Sao?",
+  "description": "Giai thoại thiền kinh điển về Thiền sư Hakuin (Bạch Ẩn) và bài học vô giá về sự nhẫn nhục, từ bi vô lượng trước mọi thị phi thế thái nhân tình.",
+  "scenes": [
+    {
+      "scene_id": "scene_01",
+      "text": "Thiền sư Hakuin là bậc đạo hạnh được muôn người kính ngưỡng, sống thanh tịnh trong thiền thất nhỏ giữa làng quê yên bình.",
+      "image_file": "data/zen_production/episodes/story_02_that_vay_sao/visuals/scene_01.jpg"
+    },
+    {
+      "scene_id": "scene_02",
+      "text": "Bên cạnh thiền thất có một cô gái xinh đẹp, là con gái của chủ tiệm thực phẩm nổi tiếng trong vùng.",
+      "image_file": "data/zen_production/episodes/story_02_that_vay_sao/visuals/scene_02.jpg"
+    },
+    {
+      "scene_id": "scene_03",
+      "text": "Một ngày nọ, cha mẹ cô phát hiện ra con gái mình đang mang thai. Họ vô cùng tức giận và nghiêm khắc tra hỏi.",
+      "image_file": "data/zen_production/episodes/story_02_that_vay_sao/visuals/scene_03.jpg"
+    },
+    {
+      "scene_id": "scene_04",
+      "text": "Trong sự hoảng loạn và xấu hổ, cô gái không chịu khai ra sự thật, cuối cùng đành khai liều rằng đó là đứa con của Thiền sư Hakuin.",
+      "image_file": "data/zen_production/episodes/story_02_that_vay_sao/visuals/scene_04.jpg"
+    },
+    {
+      "scene_id": "scene_05",
+      "text": "Cha mẹ cô gái điên tiết kéo đến thiền thất, hờn giận chỉ trích và đối chất gay gắt với Thiền sư.",
+      "image_file": "data/zen_production/episodes/story_02_that_vay_sao/visuals/scene_05.jpg"
+    },
+    {
+      "scene_id": "scene_06",
+      "text": "Trước muôn vàn lời nhạo báng và giận dữ, Thiền sư Hakuin chỉ điềm nhiên mỉm cười và thốt lên êm ái: Thật vậy sao?",
+      "image_file": "data/zen_production/episodes/story_02_that_vay_sao/visuals/scene_06.jpg"
+    },
+    {
+      "scene_id": "scene_07",
+      "text": "Khi đứa trẻ vừa chào đời, cha mẹ cô gái liền đem đến trao cho Thiền sư. Danh dự bị tổn hại nặng nề, nhưng ngài vẫn an nhiên đón lấy đứa bé.",
+      "image_file": "data/zen_production/episodes/story_02_that_vay_sao/visuals/scene_07.jpg"
+    },
+    {
+      "scene_id": "scene_08",
+      "text": "Mỗi ngày, Thiền sư bế đứa trẻ đi khắp làng xin sữa và thức ăn. Dù bị người đời mỉa mai, ngài vẫn cúi đầu kính cẩn.",
+      "image_file": "data/zen_production/episodes/story_02_that_vay_sao/visuals/scene_08.jpg"
+    },
+    {
+      "scene_id": "scene_09",
+      "text": "Một năm trôi qua, cô gái trẻ không thể chịu đựng nổi sự cằn nhằn và cắn rứt của lương tâm thêm được nữa.",
+      "image_file": "data/zen_production/episodes/story_02_that_vay_sao/visuals/scene_09.jpg"
+    },
+    {
+      "scene_id": "scene_10",
+      "text": "Cô quỳ khóc thú nhận với cha mẹ rằng cha thật của đứa trẻ là anh hàng cá trẻ tuổi, chứ không phải Thiền sư.",
+      "image_file": "data/zen_production/episodes/story_02_that_vay_sao/visuals/scene_10.jpg"
+    },
+    {
+      "scene_id": "scene_11",
+      "text": "Cha mẹ cô gái bàng hoàng, vội vã kéo nhau đến thiền thất, sụp quỳ tạ lỗi và xin nhận lại đứa bé.",
+      "image_file": "data/zen_production/episodes/story_02_that_vay_sao/visuals/scene_11.jpg"
+    },
+    {
+      "scene_id": "scene_12",
+      "text": "Thiền sư Hakuin nhẹ nhàng trao lại đứa bé khỏe mạnh cho người mẹ, rồi mỉm cười điềm tĩnh nói: Thật vậy sao?",
+      "image_file": "data/zen_production/episodes/story_02_that_vay_sao/visuals/scene_12.jpg"
+    }
+  ]
+}
