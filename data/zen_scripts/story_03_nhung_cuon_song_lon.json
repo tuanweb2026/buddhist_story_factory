@@ -1,0 +1,61 @@
+{
+  "title": "101 Câu Chuyện Thiền - Tập 3: Những Cuộn Sóng Lớn",
+  "description": "Giai thoại thiền vượt qua nỗi sợ hãi tâm lý của đô vật O-nami (Đại Ba), bài học sâu sắc về sức mạnh của sự tập trung quán tưởng và giải thoát tâm trí.",
+  "scenes": [
+    {
+      "scene_id": "scene_01",
+      "text": "Vào đầu thời Minh Trị tại Nhật Bản, có một đô vật sĩ tài ba tên là O-nami, nghĩa là những cuộn sóng lớn.",
+      "image_file": "data/zen_production/episodes/story_03_nhung_cuon_song_lon/visuals/scene_01.jpg"
+    },
+    {
+      "scene_id": "scene_02",
+      "text": "O-nami sở hữu sức mạnh vô song và am tường nghệ thuật đô vật. Trong các cuộc thi đấu nội viện riêng tư, anh đánh ngã cả sư phụ của mình.",
+      "image_file": "data/zen_production/episodes/story_03_nhung_cuon_song_lon/visuals/scene_02.jpg"
+    },
+    {
+      "scene_id": "scene_03",
+      "text": "Nhưng khi bước ra trước công chúng, O-nami lại nhút nhát đến mức run rẩy, dễ dàng bị các môn đệ nhỏ bé quật ngã.",
+      "image_file": "data/zen_production/episodes/story_03_nhung_cuon_song_lon/visuals/scene_03.jpg"
+    },
+    {
+      "scene_id": "scene_04",
+      "text": "Biết mình gặp chướng ngại tâm lý, O-nami tìm đến một ngôi chùa nhỏ gặp Thiền sư du hành Hakuju để xin soi sáng.",
+      "image_file": "data/zen_production/episodes/story_03_nhung_cuon_song_lon/visuals/scene_04.jpg"
+    },
+    {
+      "scene_id": "scene_05",
+      "text": "Thiền sư Hakuju ôn tồn dạy: Tên ngươi là Đại Ba. Đêm nay hãy ở lại chùa và quán tưởng mình là những cuộn sóng thần cuốn phăng tất cả.",
+      "image_file": "data/zen_production/episodes/story_03_nhung_cuon_song_lon/visuals/scene_05.jpg"
+    },
+    {
+      "scene_id": "scene_06",
+      "text": "Đêm đến, O-nami ngồi xếp bằng thiền định. Ban đầu tâm trí anh còn xao động với nhiều lo âu suy nghĩ lung tung.",
+      "image_file": "data/zen_production/episodes/story_03_nhung_cuon_song_lon/visuals/scene_06.jpg"
+    },
+    {
+      "scene_id": "scene_07",
+      "text": "Nhưng rồi định lực dâng cao, O-nami cảm nhận những làn sóng lớn cuộn trào, cuốn phăng cúng phẩm và hoa trên bàn thờ.",
+      "image_file": "data/zen_production/episodes/story_03_nhung_cuon_song_lon/visuals/scene_07.jpg"
+    },
+    {
+      "scene_id": "scene_08",
+      "text": "Trước bình minh, cả ngôi chùa như chìm đắm dưới một đại dương bao la cuồng nộ. O-nami đã hoàn toàn hòa nhập làm một với đại sóng thần.",
+      "image_file": "data/zen_production/episodes/story_03_nhung_cuon_song_lon/visuals/scene_08.jpg"
+    },
+    {
+      "scene_id": "scene_09",
+      "text": "Sáng ra, Thiền sư Hakuju thấy O-nami mỉm cười thanh thản. Ngài vỗ vai anh: Giờ đây không gì cản nổi ngươi nữa, ngươi chính là những cuộn sóng ấy!",
+      "image_file": "data/zen_production/episodes/story_03_nhung_cuon_song_lon/visuals/scene_09.jpg"
+    },
+    {
+      "scene_id": "scene_10",
+      "text": "Ngay ngày hôm đó bước ra đấu trường công cộng, O-nami thi đấu với khí thế cuộn sóng, dễ dàng quật ngã mọi đối thủ mạnh nhất.",
+      "image_file": "data/zen_production/episodes/story_03_nhung_cuon_song_lon/visuals/scene_10.jpg"
+    },
+    {
+      "scene_id": "scene_11",
+      "text": "Về sau, O-nami trở thành huyền thoại đô vật bất bại lừng lẫy khắp đất nước Nhật Bản, không ai có thể hạ gục được anh.",
+      "image_file": "data/zen_production/episodes/story_03_nhung_cuon_song_lon/visuals/scene_11.jpg"
+    }
+  ]
+}
