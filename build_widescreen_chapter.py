@@ -17,6 +17,39 @@ import asyncio
 import subprocess
 from PIL import Image, ImageDraw, ImageFont
 import edge_tts
+import urllib.parse
+import urllib.request
+
+
+def generate_image_free_pollinations(prompt: str, out_path: str, width: int = 1280, height: int = 720) -> bool:
+    """Generates 16:9 images FREE without any API keys or quota limits via Pollinations AI (turbo model)."""
+    if os.path.exists(out_path) and os.path.getsize(out_path) > 1000:
+        return True
+
+    os.makedirs(os.path.dirname(os.path.abspath(out_path)), exist_ok=True)
+    full_prompt = f"traditional Japanese Zen ink and watercolor wash sumi-e style, {prompt}, 16:9 widescreen composition, masterwork"
+    encoded_prompt = urllib.parse.quote(full_prompt)
+
+    # Use turbo model which is 100% free and fast without payment errors
+    models = ["turbo", "flux"]
+    for m in models:
+        url = f"https://image.pollinations.ai/prompt/{encoded_prompt}?width={width}&height={height}&model={m}&seed=42&nologo=true"
+        for attempt in range(2):
+            try:
+                req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)"})
+                with urllib.request.urlopen(req, timeout=40) as response, open(out_path, "wb") as out_file:
+                    out_file.write(response.read())
+                if os.path.exists(out_path) and os.path.getsize(out_path) > 1000:
+                    time.sleep(1.0)  # Gentle delay between downloads
+                    return True
+            except Exception as e:
+                time.sleep(2.0)
+                continue
+
+    print(f"      [!] Thất bại tải ảnh cho: {prompt[:30]}...")
+    return False
+
+
 
 
 async def voiceover_async(text: str, out_path: str, voice: str = "vi-VN-HoaiMyNeural", retries: int = 3) -> bool:
@@ -252,9 +285,19 @@ def build_chapter_video(script_json_path: str, output_base: str = "data/buddhist
         print(f"    Lời kể: \"{text}\"")
         print(f"    Hình ảnh gốc: {image_src}")
 
+        # 0. Check or auto-generate image via FREE Pollinations API
+        if not os.path.exists(image_src):
+            prompt = s.get("prompt", text)
+            print(f"    🎨 Ảnh chưa có, tự động tạo FREE qua Pollinations API...")
+            ok_img = generate_image_free_pollinations(prompt, image_src)
+            if not ok_img:
+                print(f"    [!] Thất bại tạo ảnh cho {scene_id}")
+                continue
+
         # 1. Subtitles
         sub_img = os.path.join(visuals_dir, f"{scene_id}_sub.jpg")
         apply_widescreen_subtitles(image_src, text, sub_img, width=1920, height=1080)
+
 
         # 2. Voice
         audio_file = os.path.join(audio_dir, f"{scene_id}.mp3")

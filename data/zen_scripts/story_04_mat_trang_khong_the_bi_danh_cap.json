@@ -1,0 +1,66 @@
+{
+  "title": "101 Câu Chuyện Thiền - Tập 4: Mặt Trăng Không Thể Bị Đánh Cắp",
+  "description": "Giai thoại thiền vượt lên trên mọi sở hữu vật chất của Thiền sư Ryokan (Lương Kạn) và lòng từ bi sâu thẳm đối với kẻ trộm.",
+  "scenes": [
+    {
+      "scene_id": "scene_01",
+      "text": "Thiền sư Ryokan sống một cuộc đời vô cùng giản dị và thanh bạch trong một căn thảo am nhỏ nằm an yên dưới chân núi rợp bóng cây.",
+      "image_file": "data/zen_production/episodes/story_04_mat_trang_khong_the_bi_danh_cap/visuals/scene_01.jpg",
+      "prompt": "Traditional Japanese Zen ink and watercolor wash sumi-e style. Zen master Ryokan, a gentle humble Japanese monk in simple patched robes, sitting peacefully inside a tiny modest wooden hut at the foot of a mountain, surrounded by quiet nature, 16:9 widescreen composition."
+    },
+    {
+      "scene_id": "scene_02",
+      "text": "Thảo am của ngài nghèo đến mức hầu như chẳng có đồ đạc quý giá nào, chỉ có bồ đoàn thiền định và bộ quần áo sòng ngài mặc trên người.",
+      "image_file": "data/zen_production/episodes/story_04_mat_trang_khong_the_bi_danh_cap/visuals/scene_02.jpg",
+      "prompt": "Traditional Japanese Zen ink and watercolor wash sumi-e style. Interior of a very simple minimal Japanese hut, a zazen meditation cushion on tatami floor, a tea pot, moonlight streaming through shoji window, tranquil spiritual atmosphere, 16:9 widescreen composition."
+    },
+    {
+      "scene_id": "scene_03",
+      "text": "Một đêm trăng sáng vạch qua rặng núi, có kẻ đạo chích lén lút đột nhập vào thảo am với ý định trộm cắp tài sản.",
+      "image_file": "data/zen_production/episodes/story_04_mat_trang_khong_the_bi_danh_cap/visuals/scene_03.jpg",
+      "prompt": "Traditional Japanese Zen ink and watercolor wash sumi-e style. Dark night illuminated by a full bright moon. A shadowy Japanese thief sneaking quietly into the small mountain hut, looking around in suspense, 16:9 widescreen composition."
+    },
+    {
+      "scene_id": "scene_04",
+      "text": "Kẻ trộm lục lọi khắp gian phòng nhỏ nhưng tìm mãi chẳng thấy bất kỳ vật gì có giá trị để lấy cả.",
+      "image_file": "data/zen_production/episodes/story_04_mat_trang_khong_the_bi_danh_cap/visuals/scene_04.jpg",
+      "prompt": "Traditional Japanese Zen ink and watercolor wash sumi-e style. The thief searching through empty corners of the minimalist monk room under soft moonlight, looking bewildered and disappointed by the extreme poverty of the room, 16:9 widescreen composition."
+    },
+    {
+      "scene_id": "scene_05",
+      "text": "Vừa lúc đó, Thiền sư Ryokan thong thả đi dạo đêm trở về và bắt gặp kẻ trộm đang lúng túng giữa gian phòng.",
+      "image_file": "data/zen_production/episodes/story_04_mat_trang_khong_the_bi_danh_cap/visuals/scene_05.jpg",
+      "prompt": "Traditional Japanese Zen ink and watercolor wash sumi-e style. Zen master Ryokan returning to his hut, surprising the startled thief in the doorway, Ryokan looking at the thief with warm gentle eyes and no anger whatsoever, 16:9 widescreen composition."
+    },
+    {
+      "scene_id": "scene_06",
+      "text": "Ngài nhìn kẻ trộm với ánh mắt dịu dàng và ôn tồn nói: Có lẽ ngươi từ xa lắm mới đến thăm ta, không nên để ngươi về tay không.",
+      "image_file": "data/zen_production/episodes/story_04_mat_trang_khong_the_bi_danh_cap/visuals/scene_06.jpg",
+      "prompt": "Traditional Japanese Zen ink and watercolor wash sumi-e style. Close up of Zen master Ryokan speaking with profound compassion and a serene smile under moonlight, reaching down to unfasten his own robe as a gift, 16:9 widescreen composition."
+    },
+    {
+      "scene_id": "scene_07",
+      "text": "Thiền sư cởi bộ quần áo duy nhất đang mặc trên người và trao tặng cho hắn như một món quà mọn.",
+      "image_file": "data/zen_production/episodes/story_04_mat_trang_khong_the_bi_danh_cap/visuals/scene_07.jpg",
+      "prompt": "Traditional Japanese Zen ink and watercolor wash sumi-e style. Master Ryokan offering his folded monk robe to the stunned thief with both hands, profound generosity, painterly sumi-e ink wash, 16:9 widescreen composition."
+    },
+    {
+      "scene_id": "scene_08",
+      "text": "Kẻ trộm vô cùng sửng sốt và bàng hoàng. Hắn vội vã vơ lấy bộ quần áo rồi quay đầu chuồn mất vào bóng đêm.",
+      "image_file": "data/zen_production/episodes/story_04_mat_trang_khong_the_bi_danh_cap/visuals/scene_08.jpg",
+      "prompt": "Traditional Japanese Zen ink and watercolor wash sumi-e style. The thief grasping the robe in shock and running away quickly into the moonlit bamboo forest, wide angle 16:9 widescreen composition."
+    },
+    {
+      "scene_id": "scene_09",
+      "text": "Thiền sư Ryokan ngồi trần truồng bên cửa sổ, ngước nhìn vầng trăng sáng văng vẳng giữa bầu trời khuya tĩnh mịch.",
+      "image_file": "data/zen_production/episodes/story_04_mat_trang_khong_the_bi_danh_cap/visuals/scene_09.jpg",
+      "prompt": "Traditional Japanese Zen ink and watercolor wash sumi-e style. Master Ryokan sitting calmly by the open window under a brilliant radiant full moon in the dark night sky, absolute peace and detachment, 16:9 widescreen composition."
+    },
+    {
+      "scene_id": "scene_10",
+      "text": "Ngài thở dài trầm ngâm với tình thương bao la: Thiệt đáng thương, ước gì ta có thể tặng cho hắn cả mặt trăng tuyệt đẹp này.",
+      "image_file": "data/zen_production/episodes/story_04_mat_trang_khong_the_bi_danh_cap/visuals/scene_10.jpg",
+      "prompt": "Traditional Japanese Zen ink and watercolor wash sumi-e style. Sublime poetic ending. A luminous glowing full moon shining brightly over the serene Japanese mountains, representing boundless freedom and unstealable nature, masterpiece sumi-e, 16:9 widescreen composition."
+    }
+  ]
+}
